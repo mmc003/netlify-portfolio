@@ -36,9 +36,9 @@ Menus:
     #   url: /blogs
     #   weight: 1
     - identifier: gallery
-      name: Gallery
-      title: Blog posts
-      url: /gallery
+      name: Photography
+      # title: Blog posts
+      url: https://grainyboii.netlify.app/
       weight: 2
     #Dropdown menu
     # - identifier: dropdown
