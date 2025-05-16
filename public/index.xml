@@ -2,10 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Michael Chu | Software Engineer</title>
-    <link>https://hugo-profile.netlify.app/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Michael Chu | Software Engineer</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="https://hugo-profile.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 25 Jun 2022 18:35:46 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Recents</title>
+      <link>http://localhost:1313/gallery/</link>
+      <pubDate>Sat, 25 Jun 2022 18:35:46 +0530</pubDate>
+      <guid>http://localhost:1313/gallery/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>
